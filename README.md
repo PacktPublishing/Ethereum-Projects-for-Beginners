@@ -26,16 +26,16 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders.
-
+...
 The code will look like the following:
-```
+
 function sendCoin(address receiver, uint amount) public returns(bool
 sufficient) {
  if (balances[msg.sender] < amount) return false;
  balances[msg.sender] -= amount;
  balances[receiver] += amount;
-...
 
+...
 
 **Following is what you need for this book:**
 This book is for individuals who want to build decentralized applications using blockchain technology and the power of Ethereum from scratch. Some prior knowledge of JavaScript is required, since most examples use a web frontend.
