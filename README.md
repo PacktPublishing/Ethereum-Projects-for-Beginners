@@ -34,6 +34,8 @@ sufficient) {
  if (balances[msg.sender] < amount) return false;
  balances[msg.sender] -= amount;
  balances[receiver] += amount;
+...
+
 
 **Following is what you need for this book:**
 This book is for individuals who want to build decentralized applications using blockchain technology and the power of Ethereum from scratch. Some prior knowledge of JavaScript is required, since most examples use a web frontend.
