@@ -39,7 +39,7 @@ sufficient) {
 **Following is what you need for this book:**
 This book is for individuals who want to build decentralized applications using blockchain technology and the power of Ethereum from scratch. Some prior knowledge of JavaScript is required, since most examples use a web frontend.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-5).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-4).
 
 ### Software and Hardware List
 
