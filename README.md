@@ -26,8 +26,9 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders.
-...
+
 The code will look like the following:
+...
 
 function sendCoin(address receiver, uint amount) public returns(bool
 sufficient) {
