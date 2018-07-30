@@ -61,8 +61,9 @@ With the following software and hardware list you can run all code files present
 
 * Mastering Blockchain - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788839044) [[Amazon]](https://www.amazon.com/dp/1788839048)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Kenny Vaneetvelde**
+
 Kenny Vaneetvelde had been trading Bitcoin for a few years when he heard about a new technology called Ethereum and was completely captivated by it. After learning all that he could about Ethereum and other blockchain technologies that had suddenly started sprouting up everywhere, he spent over a year doing R and D, developing prototypes, and training new employees in a consultancy firm so that they could start up a new blockchain branch.
 
 
